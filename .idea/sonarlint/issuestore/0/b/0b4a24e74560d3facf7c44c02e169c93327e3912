@@ -1,0 +1,30 @@
+
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëóº™8Ãžã˜‹1
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÂžŽ8Ãžã˜‹1
+m	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¢âÜ8Ý¢æ˜‹1
+7
+java:S1220""Move this file to a named package.8Ãžã˜‹1
+f
+java:S1854#"IRemove this useless assignment to local variable "numeroDecimalPequeÃ±o".(é¢âÜ8æ¢æ˜‹1
+e
+java:S1854""HRemove this useless assignment to local variable "numeroAunMasPequeÃ±o".(øÂžŽ8Ëžã˜‹1
+_
+java:S1854!"BRemove this useless assignment to local variable "numeroPequeÃ±o".(ëóº™8Ìžã˜‹1
+W
+java:S1854 ":Remove this useless assignment to local variable "prueba".(µ‚šö8Ìžã˜‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥ëŽÜ8Ížã˜‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥ëŽÜ8Îžã˜‹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³æ²Ùÿÿÿÿÿ8Îžã˜‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(îËŸè8Îžã˜‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïñží8Îžã˜‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ´€¼8Ïžã˜‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ãŒ”µ8Ïžã˜‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(â¬üá8Ïžã˜‹1
+H
+java:S1481 "+Remove this unused "prueba" local variable.(µ‚šö8Ðžã˜‹1
+P
+java:S1481!"3Remove this unused "numeroPequeÃ±o" local variable.(ëóº™8Ðžã˜‹1
+V
+java:S1481""9Remove this unused "numeroAunMasPequeÃ±o" local variable.(øÂžŽ8Ðžã˜‹1
+W
+java:S1481#":Remove this unused "numeroDecimalPequeÃ±o" local variable.(é¢âÜ8ê¢æ˜‹1
